@@ -68,5 +68,5 @@ Outputs
 ![image](https://github.com/user-attachments/assets/85dc1b1f-0324-4d26-9a9d-b9a16e65c75c)
 
 
-Contributing
+### **Contributing**
 Feel free to fork the repository, submit issues, and create pull requests. Contributions are welcome!
