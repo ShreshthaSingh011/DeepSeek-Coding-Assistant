@@ -57,3 +57,15 @@ streamlit run app.py
 ## Contributing
 Feel free to fork the repository, submit issues, and create pull requests. Contributions are welcome!
 
+### Outputs
+![image](https://github.com/user-attachments/assets/6b14b543-0987-4eab-8c0b-9c6593566ca3)
+
+![image](https://github.com/user-attachments/assets/fc094f16-ffcc-4848-9d78-e24fe685e555)
+
+![image](https://github.com/user-attachments/assets/c8bafcc2-8b8f-4b24-a8ea-49d40bd92015)
+
+![image](https://github.com/user-attachments/assets/925d87ee-dec9-495a-be76-9bbeae51016e)
+
+![image](https://github.com/user-attachments/assets/f9c45ddc-3c2e-4f59-83fd-c2ab213121b0)
+
+![image](https://github.com/user-attachments/assets/85dc1b1f-0324-4d26-9a9d-b9a16e65c75c)
