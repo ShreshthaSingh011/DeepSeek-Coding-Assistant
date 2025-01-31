@@ -38,11 +38,10 @@ DeepSeek is an AI-powered Python coding assistant that provides smart code sugge
 
 ### Step 1: Clone the repository
 
-```bash
 git clone https://github.com/yourusername/deepseek-python-assistant.git
 cd deepseek-python-assistant
 
-### Step 2: Create a virtual environment (using Anaconda)
+### **Step 2: Create a virtual environment (using Anaconda)**
 
 conda create --name deepseek python=3.8
 conda activate deepseek
