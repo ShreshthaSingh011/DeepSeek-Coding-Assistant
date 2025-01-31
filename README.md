@@ -54,10 +54,8 @@ pip install -r requirements.txt
 Run the assistant locally:
 streamlit run app.py
 
-## Contributing
-Feel free to fork the repository, submit issues, and create pull requests. Contributions are welcome!
 
-### Outputs
+Outputs
 ![image](https://github.com/user-attachments/assets/6b14b543-0987-4eab-8c0b-9c6593566ca3)
 
 ![image](https://github.com/user-attachments/assets/fc094f16-ffcc-4848-9d78-e24fe685e555)
@@ -69,3 +67,7 @@ Feel free to fork the repository, submit issues, and create pull requests. Contr
 ![image](https://github.com/user-attachments/assets/f9c45ddc-3c2e-4f59-83fd-c2ab213121b0)
 
 ![image](https://github.com/user-attachments/assets/85dc1b1f-0324-4d26-9a9d-b9a16e65c75c)
+
+
+Contributing
+Feel free to fork the repository, submit issues, and create pull requests. Contributions are welcome!
