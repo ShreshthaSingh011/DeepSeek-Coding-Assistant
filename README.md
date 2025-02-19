@@ -54,7 +54,8 @@ Run the assistant locally:
 streamlit run app.py
 
 
-Outputs
+## **Outputs**
+
 ![image](https://github.com/user-attachments/assets/6b14b543-0987-4eab-8c0b-9c6593566ca3)
 
 ![image](https://github.com/user-attachments/assets/fc094f16-ffcc-4848-9d78-e24fe685e555)
